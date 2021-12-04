@@ -2,37 +2,37 @@
     "tasks":[
         {
             "id":1,
-            "task":"Hit the gym",
+            "taskName":"Hit the gym",
             "isDone":false
         },
         {
             "id":2,
-            "task":"Pay Bills",
+            "taskName":"Pay Bills",
             "isDone":false
         },
         {
             "id":3,
-            "task":"Meet George",
+            "taskName":"Meet George",
             "isDone":false
         },
         {
             "id":4,
-            "task":"Buy Eggs",
+            "taskName":"Buy Eggs",
             "isDone":false
         },
         {
             "id":5,
-            "task":"Read a Book",
+            "taskName":"Read a Book",
             "isDone":false
         },
         {
             "id":6,
-            "task":"Organize Office",
+            "taskName":"Organize Office",
             "isDone":false
         },
         {
             "id":7,
-            "task":"Book Tickets",
+            "taskName":"Book Tickets",
             "isDone":false
         }
     ]
