@@ -1,10 +1,39 @@
 {
     "tasks":[
         {
-            "id":"1",
+            "id":1,
             "task":"Hit the gym",
             "isDone":false
-
+        },
+        {
+            "id":2,
+            "task":"Pay Bills",
+            "isDone":false
+        },
+        {
+            "id":3,
+            "task":"Meet George",
+            "isDone":false
+        },
+        {
+            "id":4,
+            "task":"Buy Eggs",
+            "isDone":false
+        },
+        {
+            "id":5,
+            "task":"Read a Book",
+            "isDone":false
+        },
+        {
+            "id":6,
+            "task":"Organize Office",
+            "isDone":false
+        },
+        {
+            "id":7,
+            "task":"Book Tickets",
+            "isDone":false
         }
     ]
 }
