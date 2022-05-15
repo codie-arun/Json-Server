@@ -3,55 +3,55 @@
       {
          "id":1,
          "question":"What is the scientific name of a butterfly?",
-         "answers":[
-            {"id":0,"Apis"},
-            {"id":1,"Coleoptera"},
-            {"id":2,"Formicidae"},
-            {"id":3,"Rhopalocera"}
+         "options":[
+            {"id":0,"option":"Apis"},
+            {"id":1,"option":"Coleoptera"},
+            {"id":2,"option":"Formicidae"},
+            {"id":3,"option":"Rhopalocera"}
          ],
          "correctIndex":3
       },
       {
          "id":2,
          "question":"How hot is the surface of the sun?",
-         "answers":[
-            {"id":0,"1,233 K"},
-            {"id":1,"5,778 K"},
-            {"id":2,"12,130 K"},
-            {"id":3,"101,300 K"}
+         "options":[
+            {"id":0,"option":"1,233 K"},
+            {"id":1,"option":"5,778 K"},
+            {"id":2,"option":"12,130 K"},
+            {"id":3,"option":"101,300 K"}
          ],
          "correctIndex":1
       },
       {
          "id":3,
          "question":"Who are the actors in The Internship?",
-         "answers":[
-            {"id":0,"Ben Stiller, Jonah Hill"},
-            {"id":1,"Courteney Cox, Matt LeBlanc"},
-            {"id":2,"Kaley Cuoco, Jim Parsons"},
-            {"id":3,"Vince Vaughn, Owen Wilson"}
+         "options":[
+            {"id":0,"option":"Ben Stiller, Jonah Hill"},
+            {"id":1,"option":"Courteney Cox, Matt LeBlanc"},
+            {"id":2,"option":"Kaley Cuoco, Jim Parsons"},
+            {"id":3,"option":"Vince Vaughn, Owen Wilson"}
          ],
          "correctIndex":3
       },
       {
          "id":4,
          "question":"What is the capital of Spain?",
-         "answers":[
-            {"id":0,"Berlin"},
-            {"id":1,"Buenos Aires"},
-            {"id":2,"Madrid"},
-            {"id":3,"San Juan"}
+         "options":[
+            {"id":0,"option":"Berlin"},
+            {"id":1,"option":"Buenos Aires"},
+            {"id":2,"option":"Madrid"},
+            {"id":3,"option":"San Juan"}
          ],
          "correctIndex":2
       },
       {
          "id":5,
          "question":"What are the school colors of the University of Texas at Austin?",
-         "answers":[
-            {"id":0,"Black, Red"},
-            {"id":1,"Blue, Orange"},
-            {"id":2,"White, Burnt Orange"},
-            {"id":3,"White, Old gold, Gold"}
+         "options":[
+            {"id":0,"option":"Black, Red"},
+            {"id":1,"option":"Blue, Orange"},
+            {"id":2,"option":"White, Burnt Orange"},
+            {"id":3,"option":"White, Old gold, Gold"}
          ],
          "correctIndex":2
       }
