@@ -55,5 +55,54 @@
          ],
          "correctIndex":2
       }
-   ]
+   ],
+   
+   "posts": [
+    {
+      "post": {
+        "id": 1,
+        "title": "I'm Running to Reform the W3C's Tag",
+        "author": "Yehuda Katz",
+        "comments": [
+          1,
+          2
+        ]
+      },
+      "comments": [
+        {
+          "id": 1,
+          "author": "User 1",
+          "message": "First!"
+        },
+        {
+          "id": 2,
+          "author": "User 2",
+          "message": "Good Luck!"
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": 2,
+        "title": "My Title",
+        "author": "My Author",
+        "comments": [
+          1,
+          2
+        ]
+      },
+      "comments": [
+        {
+          "id": 1,
+          "author": "User 3",
+          "message": "Awesome!"
+        },
+        {
+          "id": 2,
+          "author": "User 4",
+          "message": "Great !!"
+        }
+      ]
+    }
+  ]
 }
