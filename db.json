@@ -1,108 +1,121 @@
 {
-   "questions":[
+  "data" : {
+    "questions": [
       {
-         "id":1,
-         "question":"What is the scientific name of a butterfly?",
-         "options":[
-            {"id":0,"option":"Apis"},
-            {"id":1,"option":"Coleoptera"},
-            {"id":2,"option":"Formicidae"},
-            {"id":3,"option":"Rhopalocera"}
-         ],
-         "correctIndex":3
-      },
-      {
-         "id":2,
-         "question":"How hot is the surface of the sun?",
-         "options":[
-            {"id":0,"option":"1,233 K"},
-            {"id":1,"option":"5,778 K"},
-            {"id":2,"option":"12,130 K"},
-            {"id":3,"option":"101,300 K"}
-         ],
-         "correctIndex":1
-      },
-      {
-         "id":3,
-         "question":"Who are the actors in The Internship?",
-         "options":[
-            {"id":0,"option":"Ben Stiller, Jonah Hill"},
-            {"id":1,"option":"Courteney Cox, Matt LeBlanc"},
-            {"id":2,"option":"Kaley Cuoco, Jim Parsons"},
-            {"id":3,"option":"Vince Vaughn, Owen Wilson"}
-         ],
-         "correctIndex":3
-      },
-      {
-         "id":4,
-         "question":"What is the capital of Spain?",
-         "options":[
-            {"id":0,"option":"Berlin"},
-            {"id":1,"option":"Buenos Aires"},
-            {"id":2,"option":"Madrid"},
-            {"id":3,"option":"San Juan"}
-         ],
-         "correctIndex":2
-      },
-      {
-         "id":5,
-         "question":"What are the school colors of the University of Texas at Austin?",
-         "options":[
-            {"id":0,"option":"Black, Red"},
-            {"id":1,"option":"Blue, Orange"},
-            {"id":2,"option":"White, Burnt Orange"},
-            {"id":3,"option":"White, Old gold, Gold"}
-         ],
-         "correctIndex":2
-      }
-   ],
-   
-   "posts": [
-    {
-      "post": {
         "id": 1,
-        "title": "I'm Running to Reform the W3C's Tag",
-        "author": "Yehuda Katz",
-        "comments": [
-          1,
-          2
-        ]
+        "question": "What is the scientific name of a butterfly?",
+        "options": [
+          {
+            "id": 0,
+            "option": "Apis"
+          },
+          {
+            "id": 1,
+            "option": "Coleoptera"
+          },
+          {
+            "id": 2,
+            "option": "Formicidae"
+          },
+          {
+            "id": 3,
+            "option": "Rhopalocera"
+          }
+        ],
+        "correctIndex": 3
       },
-      "comments": [
-        {
-          "id": 1,
-          "author": "User 1",
-          "message": "First!"
-        },
-        {
-          "id": 2,
-          "author": "User 2",
-          "message": "Good Luck!"
-        }
-      ]
-    },
-    {
-      "post": {
+      {
         "id": 2,
-        "title": "My Title",
-        "author": "My Author",
-        "comments": [
-          1,
-          2
-        ]
+        "question": "How hot is the surface of the sun?",
+        "options": [
+          {
+            "id": 0,
+            "option": "1,233 K"
+          },
+          {
+            "id": 1,
+            "option": "5,778 K"
+          },
+          {
+            "id": 2,
+            "option": "12,130 K"
+          },
+          {
+            "id": 3,
+            "option": "101,300 K"
+          }
+        ],
+        "correctIndex": 1
       },
-      "comments": [
-        {
-          "id": 1,
-          "author": "User 3",
-          "message": "Awesome!"
-        },
-        {
-          "id": 2,
-          "author": "User 4",
-          "message": "Great !!"
-        }
-      ]
-    }
-  ]
+      {
+        "id": 3,
+        "question": "Who are the actors in The Internship?",
+        "options": [
+          {
+            "id": 0,
+            "option": "Ben Stiller, Jonah Hill"
+          },
+          {
+            "id": 1,
+            "option": "Courteney Cox, Matt LeBlanc"
+          },
+          {
+            "id": 2,
+            "option": "Kaley Cuoco, Jim Parsons"
+          },
+          {
+            "id": 3,
+            "option": "Vince Vaughn, Owen Wilson"
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": 4,
+        "question": "What is the capital of Spain?",
+        "options": [
+          {
+            "id": 0,
+            "option": "Berlin"
+          },
+          {
+            "id": 1,
+            "option": "Buenos Aires"
+          },
+          {
+            "id": 2,
+            "option": "Madrid"
+          },
+          {
+            "id": 3,
+            "option": "San Juan"
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": 5,
+        "question": "What are the school colors of the University of Texas at Austin?",
+        "options": [
+          {
+            "id": 0,
+            "option": "Black, Red"
+          },
+          {
+            "id": 1,
+            "option": "Blue, Orange"
+          },
+          {
+            "id": 2,
+            "option": "White, Burnt Orange"
+          },
+          {
+            "id": 3,
+            "option": "White, Old gold, Gold"
+          }
+        ],
+        "correctIndex": 2
+      }
+    ]
+  }
 }
